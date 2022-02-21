@@ -1,8 +1,8 @@
 # Sign-up Form
 
-## <a href="file:///home/brodeed/the_odin_project/dashboard/index.html">live Preview</a><br>
+## <a href="https://brodeed.github.io/sign-up-form/">live Preview</a><br>
 
-This is a dashboard based on a Grid exercise by The Odin Project.
+This is a sign-up form based on a CSS exercise by The Odin Project.
 
 ###### Skills displayed
 
